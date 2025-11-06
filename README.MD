@@ -32,10 +32,10 @@ RhinoGuardians is an AI-driven wildlife conservation platform that uses **YOLOv5
 ## 🚀 Quick Start
 
 ### Local Preview
-Simply open `RhinoGuardians-Landing.html` in your browser:
+Simply open `index.html` in your browser:
 ```bash
 # macOS/Linux
-open RhinoGuardians-Landing.html
+open index.html
 
 # Or use a local server
 python -m http.server 8000
@@ -46,7 +46,7 @@ python -m http.server 8000
 
 ```
 rhinoguardians-web/
-├── RhinoGuardians-Landing.html     # Main landing page (all-in-one HTML file)
+├── index.html     # Main landing page (all-in-one HTML file)
 ├── README.md           # This file
 ```
 
